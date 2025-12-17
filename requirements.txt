@@ -1,0 +1,23 @@
+# WsprFlowPy Dependencies
+# Install with: pip install -r requirements.txt
+
+# Audio Processing
+sounddevice>=0.4.6         # Audio recording from microphone
+numpy>=1.24.0              # Audio data manipulation
+pygame>=2.5.0              # Sound effects playback
+
+# Speech-to-Text
+faster-whisper>=0.10.0     # Fast Whisper implementation with CUDA support
+
+# AI & LLM
+openai>=1.0.0              # OpenAI-compatible client for OpenRouter API
+
+# System Integration
+clipboard>=0.0.4           # Clipboard operations
+pynput>=1.7.6              # Keyboard event handling
+pyautogui>=0.9.54          # Automated typing for IDE file mentions
+pywin32>=306               # Windows API access (window detection)
+psutil>=5.9.0              # Process information
+
+# Configuration
+python-dotenv>=1.0.0       # Environment variable management from .env file
