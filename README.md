@@ -309,4 +309,4 @@ If you encounter issues:
 
 ---
 
-**Note**: This is an unofficial remake and is not affiliated with wisprflow.ai
+**Note**: This is an unofficial remake and is not affiliated with [Wisprflow](https://wisprflow.ai/).
