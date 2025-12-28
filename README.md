@@ -1,6 +1,6 @@
 # WsprFlowPy
 
-An open-source, high-performance dictation tool with AI-powered formatting - a remake of [wisprflow](https://wisprflow.ai/).
+An open-source, high-performance dictation tool that uses AI to format speech into clean, usable text, inspired by [Wisprflow](https://wisprflow.ai/).
 
 ## System Requirements
 
